@@ -1,0 +1,4 @@
+The Project Works perfectly after carefully setting up the VMs and configure it accordingly.
+
+after setting up the last VM is setup and configured, to access the application, get the ip of the webapp01(nginx), put it on the browser along with port 80.
+the username and password is admin_vp.
